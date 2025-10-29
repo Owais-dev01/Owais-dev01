@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi there, I'm **Muhammad Owais**!  
-💻 I have **8 months of experience in Frontend Development** and I am currently working at **SLeekhive Technologies**.  
+💻 I have **1 Year of experience in Frontend Development** and I am currently working at **SLeekhive Technologies**.  
 🚀 Passionate about technology and its applications, I'm diving deep into the world of **Data Science**.  
 📚 Continuously learning through platforms like **Coursera** to keep my skills sharp.  
 👨‍💻 I love building innovative solutions and exploring new technologies.  
